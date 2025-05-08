@@ -1,4 +1,4 @@
-# Discord Profanity Filter Bot
+# BuddyGuardAI - a Discord Profanity Filter Bot
 
 A powerful Discord bot that automatically detects and removes toxic or profane messages in your server, supporting both English and Tagalog. It uses Google Perspective API for toxicity detection and Google Gemini for multi-language profanity detection.
 
