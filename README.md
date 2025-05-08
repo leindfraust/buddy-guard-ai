@@ -42,7 +42,6 @@ DISCORD_TOKEN=your_discord_bot_token
 PERSPECTIVE_API_KEY=your_perspective_api_key
 GEMINI_API_KEY=your_gemini_api_key
 TOXICITY_THRESHOLD=0.8
-CHANNEL_ID=your_default_channel_id
 PORT=3000
 ```
 

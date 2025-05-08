@@ -20,7 +20,6 @@ const client = new Client({
     ],
 });
 
-const CHANNEL_ID = process.env.CHANNEL_ID as string;
 const TOXICITY_THRESHOLD = parseFloat(process.env.TOXICITY_THRESHOLD || "0.8");
 const PERSPECTIVE_API_KEY = process.env.PERSPECTIVE_API_KEY as string;
 const DISCORD_TOKEN = process.env.DISCORD_TOKEN as string;
